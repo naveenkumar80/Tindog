@@ -1,2 +1,1 @@
-# Tindog
-tindog styling
+TinDog Starting Files
